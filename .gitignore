@@ -1,0 +1,7 @@
+.vscode
+build/
+cpu_lab
+cpu_lab.exe
+*.o
+*.obj
+*.s
